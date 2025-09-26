@@ -105,9 +105,10 @@ span {
     display: flex;
     max-width: 44rem;
     max-height: fit-content;
-    margin: 8rem;
+    margin: 8rem auto;
     border-radius: 18px;
     align-items: center;
+    justify-content: center
     
 }
 
